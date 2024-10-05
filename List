@@ -1,0 +1,13 @@
+Syntax for aList:
+       Listname=[A1,A2,..]
+Function in List:
+* append():listname.append(new element)
+* insert():listname.insert(indexnumber,element)
+* Extend():listname.Extend([v1,v2,..])
+* remove():listname.remove(element)
+* pop():listname.pop(position)
+
+#We can add last element in List
+mylist=[10,20,30,40]
+mylist=append(50)
+print(mylist)
