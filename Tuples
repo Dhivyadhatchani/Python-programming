@@ -1,4 +1,9 @@
 Syntax for a tuple:
-  TupleName=( )
+  TupleName=(A1,A2,..)
 #Defining a tuple
 t=(1,2,3,4)
+#Methods in a Tuples 
+#using count()
+t.count(2)
+#using index()
+t.index(3)
