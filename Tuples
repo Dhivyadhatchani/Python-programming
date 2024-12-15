@@ -1,0 +1,4 @@
+Syntax for a tuple:
+  TupleName=( )
+#Defining a tuple
+t=(1,2,3,4)
